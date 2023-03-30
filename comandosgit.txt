@@ -16,4 +16,4 @@ git --merge (ver rama mergeadas)
 git merge nuevarama (Mergear otra rama)
 git push origin --delete nombrerama (Borrar rama del repositorio remoto)
 git branch -d nombrerama (Borrar rama local)
-prueba
+prueba1
